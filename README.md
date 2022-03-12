@@ -2,6 +2,11 @@
 
 myQT nRF52840 is a development board based on Nordic nRF52840 Bluetooth module in Seeeduino XIAO/QT py form factor.
 
+
+## myQT nRF52840 Arduino IDE Setup
+
+Please visit [milador-arduino](https://github.com/milador/milador-arduino/blob/main/boards/README.md) github page to find out about installation process.
+
 ## myQT nRF52840 Pinout
 
 <p align="center">
